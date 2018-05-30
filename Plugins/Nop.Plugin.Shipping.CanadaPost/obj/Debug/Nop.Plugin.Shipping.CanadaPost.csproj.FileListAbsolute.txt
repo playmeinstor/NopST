@@ -1,0 +1,10 @@
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Views\Configure.cshtml
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\web.config
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Description.txt
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\logo.jpg
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll.config
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.dll
+E:\Projects\Shop\Presentation\Nop.Web\Plugins\Shipping.CanadaPost\Nop.Plugin.Shipping.CanadaPost.pdb
+E:\Projects\Shop\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.csproj.CoreCompileInputs.cache
+E:\Projects\Shop\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.dll
+E:\Projects\Shop\Plugins\Nop.Plugin.Shipping.CanadaPost\obj\Debug\Nop.Plugin.Shipping.CanadaPost.pdb
